@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Event Discovery",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
